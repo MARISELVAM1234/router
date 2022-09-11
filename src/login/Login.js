@@ -4,7 +4,7 @@ import "./login.css";
 
 const Login = () => {
   const [userName] = useState(["MARISELVAM"]);
-  const [password] = useState(["selvam@111"]);
+  const [password] = useState(["123456"]);
   const [getName, setGetName] = useState([]);
   const [getPass, setGetpass] = useState([]);
   const navigate = useNavigate();
