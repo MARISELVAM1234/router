@@ -36,6 +36,7 @@ const Home1 = () => {
 
 
 
+
   // console.log(cartValue, "cart");
 
   const navi = () => {
